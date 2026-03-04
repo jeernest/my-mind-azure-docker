@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+my-mind-master/src
+my-mind-master/css
+my-mind-master/.gitignore
+my-mind-master/Makefile
+my-mind-master/package.json

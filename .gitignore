@@ -1,0 +1,39 @@
+# my-mind-master/
+# This directory contains the My Mind application source code
+# Downloaded from: https://github.com/ondras/my-mind
+# Do not commit - users should download their own copy
+my-mind-master/
+
+# Session/planning files (not for repository)
+*.copilot/
+session-state/
+plan.md
+
+# Build artifacts
+*.log
+
+# Docker
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Azure CLI
+.azure/
+
+# Sensitive or environment-specific files (if any)
+*.env
+.env
+secrets/
+*.key
+*.pem
